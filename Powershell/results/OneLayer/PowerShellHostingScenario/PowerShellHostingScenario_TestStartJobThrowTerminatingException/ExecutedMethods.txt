@@ -1,0 +1,31 @@
+|||FirstProcess||OTHER|0|
+|System.Management.Automation|PSCommand|ctor||METHOD|1|FULL HAVOC
+|System|Object|ctor||METHOD|2|Fresh.{}.{}.{RV.?}.{}<EOF>
+|System.Management.Automation|Diagnostics|Assert|bool condition,string whyThisShouldNeverHappen|METHOD|6|FULL HAVOC
+|System.Collections.ObjectModel|Collection|ctor||METHOD|2|FULL HAVOC
+|System|Guid|NewGuid||METHOD|1|Fresh.{}.{P}.{RV.?}.{}<EOF>
+|System.Management.Automation|PSDataCollection|ctor||METHOD|2|FULL HAVOC
+|System.Management.Automation|PSInformationalBuffers|ctor|System.Guid psInstanceId|METHOD|1|FULL HAVOC
+|Microsoft.PowerShell.Telemetry|ApplicationInsightsTelemetry|SendTelemetryMetric|Microsoft.PowerShell.Telemetry.TelemetryType metricId,string data|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSCommand|AddCommand|string command|METHOD|1|FULL HAVOC
+|System.Management.Automation|ScriptBlock|Create|string script|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSCommand|AddParameter|string parameterName,object value|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|Throws|System.Func<object> testCode|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|System.Management.Automation.Internal|ObjectStream|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation.Internal|ObjectStreamBase|Close||METHOD|4|FULL HAVOC
+|System.Management.Automation.Internal|PSDataCollectionStream|ctor|System.Guid psInstanceId,System.Management.Automation.PSDataCollection<TOutput> storeToUse|METHOD|2|FULL HAVOC
+|System|EventArgs|ctor||METHOD|4|FULL HAVOC
+|System.Management.Automation|ExtensionMethods|SafeInvoke|System.EventHandler<System.Management.Automation.PSInvocationStateChangedEventArgs> eventHandler,object sender,System.Management.Automation.PSInvocationStateChangedEventArgs eventArgs|METHOD|3|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceFactory|CreateRunspace||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|Runspace|Open||METHOD|1|FULL HAVOC
+|System.Management.Automation|PSEventArgs|ctor|System.Management.Automation.Runspaces.Runspace args|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|LocalPipeline|ctor|System.Management.Automation.Runspaces.LocalRunspace runspace,System.Management.Automation.Runspaces.CommandCollection command,bool addToHistory,bool isNested,System.Management.Automation.Internal.ObjectStreamBase inputStream,System.Management.Automation.Internal.ObjectStreamBase outputStream,System.Management.Automation.Internal.ObjectStreamBase errorStream,System.Management.Automation.PSInformationalBuffers infoBuffers|METHOD|1|FULL HAVOC
+|System|String|IsNullOrEmpty|string? value|METHOD|1|Null.{}.{R;P}.{}.{}<EOF>
+|System.Management.Automation.Runspaces|Pipeline|Invoke||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|Pipeline|Dispose||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|Runspace|PopRunningPowerShell||METHOD|1|FULL HAVOC
+|System|Exception|ctor||PROPERTY|1|Fresh.{Many}.{P}.{RV.?;RO.?}.{[RV;RO, RO, ?]}<EOF>
+|System.Management.Automation.Runspaces|PipelineStateInfo|ctor|System.Management.Automation.Runspaces.PipelineState state,System.Exception reason|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|PipelineStateEventArgs|ctor|System.Management.Automation.Runspaces.PipelineStateInfo pipelineStateInfo|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|IsType|object object|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|Equal|string expected,string actual|METHOD|1|Null.{}.{P}.{}.{}<EOF>

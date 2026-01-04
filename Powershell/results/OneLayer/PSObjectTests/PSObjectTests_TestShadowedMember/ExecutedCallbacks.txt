@@ -1,0 +1,5 @@
+|||FirstProcess||OTHER|0|||PSTests.Parallel|PSObjectTests|TestShadowedMember||METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|Add|System.Management.Automation.PSMemberInfo member|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|GetTypeTable||METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|Add|System.Management.Automation.PSMemberInfo member|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|get_InstanceMembers||METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|Add|System.Management.Automation.PSMemberInfo member|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|Base|object obj|METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|FirstOrDefault|System.Management.Automation.MemberNamePredicate predicate|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|get_InstanceMembers||METHOD|1|

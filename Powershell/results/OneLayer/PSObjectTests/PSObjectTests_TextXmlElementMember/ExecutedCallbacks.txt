@@ -1,0 +1,6 @@
+|||FirstProcess||OTHER|0|||PSTests.Parallel|PSObjectTests|TextXmlElementMember||METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|FirstOrDefault|System.Management.Automation.MemberNamePredicate predicate|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|get_InstanceMembers||METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|FirstOrDefault|System.Management.Automation.MemberNamePredicate predicate|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|FirstOrDefault|System.Management.Automation.MemberNamePredicate predicate|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|TypeTableGetFirstMemberOrDefaultDelegate|System.Management.Automation.PSObject msjObj,System.Management.Automation.MemberNamePredicate predicate|METHOD|1|
+|System.Management.Automation|PSMemberInfoCollection|FirstOrDefault|System.Management.Automation.MemberNamePredicate predicate|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|AdapterGetFirstMemberOrDefaultDelegate|System.Management.Automation.PSObject msjObj,System.Management.Automation.MemberNamePredicate predicate|METHOD|1|
+|System|Func|Invoke|object arg|METHOD|1|FULL HAVOC||System.Management.Automation|PSObject|MappedInternalAdapterSet|object obj|METHOD|1|

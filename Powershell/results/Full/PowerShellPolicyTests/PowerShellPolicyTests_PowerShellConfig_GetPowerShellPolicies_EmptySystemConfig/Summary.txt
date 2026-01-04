@@ -1,0 +1,14 @@
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||215|204|56|20.6160513||0.0553481|17|532||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||216|205|89|20.6160513||0.0557042|17|534||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||221|213|103|20.6160513||0.0616361|17|550||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||222|214|103|20.6160513||0.0621366|17|554||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||225|218|103|20.6160513||0.0628844|17|568||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||226|219|103|20.6160513||0.0633176|17|572||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||229|223|103|20.6160513||0.0640666|17|586||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||231|225|104|20.6160513||0.0645412|17|592||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||234|229|103|20.6160513||0.0653095|17|607||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||236|231|104|20.6160513||0.0658509|17|616||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||239|233|105|20.6160513||0.0664261|17|625||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||244|237|103|20.6160513||0.0672062|17|644||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||247|241|103|20.6160513||0.067888|17|656||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||250|245|103|20.6160513||0.0685904|17|668||

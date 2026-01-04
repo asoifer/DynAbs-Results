@@ -1,0 +1,4 @@
+FileSystemProviderTests_TestMode||77|90|8|20.6160513||0.0346812|36|156||
+FileSystemProviderTests_TestMode||464|334|37|20.6160513||0.089746|36|1078||
+FileSystemProviderTests_TestMode||530|350|51|20.6160513||0.0953235|36|1241||
+FileSystemProviderTests_TestMode||596|351|51|20.6160513||0.1001704|36|1404||

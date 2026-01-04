@@ -1,0 +1,5 @@
+|||FirstProcess||OTHER|0|
+|System|Object|GetType||METHOD|1|Fresh.{}.{R}.{RV.?}.{}<EOF>
+|System|Type|GetTypeCode|System.Type? type|METHOD|1|FULL HAVOC
+|System.Management.Automation|LanguagePrimitives|IsNumeric|System.TypeCode typeCode|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|True|bool condition|METHOD|1|FULL HAVOC

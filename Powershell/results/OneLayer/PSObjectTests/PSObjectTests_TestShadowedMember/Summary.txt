@@ -1,0 +1,6 @@
+PSObjectTests_TestShadowedMember||187|153|84|69.7526084||0.0306531|51|431||
+PSObjectTests_TestShadowedMember||188|154|84|69.7526084||0.0309719|51|434||
+PSObjectTests_TestShadowedMember||189|155|84|69.7526084||0.0312461|51|437||
+PSObjectTests_TestShadowedMember||187|153|84|20.5946278||0.0161442|51|431||
+PSObjectTests_TestShadowedMember||188|154|84|20.5946278||0.0164858|51|434||
+PSObjectTests_TestShadowedMember||189|155|84|20.5946278||0.0167503|51|437||

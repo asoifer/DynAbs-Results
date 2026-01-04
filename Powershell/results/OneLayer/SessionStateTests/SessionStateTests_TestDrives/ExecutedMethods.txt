@@ -1,0 +1,23 @@
+|||FirstProcess||OTHER|0|
+|System|String|.ctor||PROPERTY|1|Null.{}.{R;P}.{}.{}<EOF>
+|Xunit|Skip|IfNot|bool condition,string reason|METHOD|1|FULL HAVOC
+|Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|InitialSessionState|CreateDefault2||METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.Management.Automation|AutomationEngine|ctor|System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState iss|METHOD|1|FULL HAVOC
+|System.Collections.Generic|List|ctor||METHOD|12|Fresh.{Single{System.Array}}.{P}.{RV.?;RO.?}.{[RV, RO, ?]}<EOF>
+|System.Collections.Generic|Dictionary|ctor|System.Collections.Generic.IEqualityComparer<string>? comparer|METHOD|6|Fresh.{Many{|DictInternal}}.{P}.{RV.?;RO.?}.{[RV;RO, RO, ?], [RO, P, ?]}<EOF>
+|System.Management.Automation.Internal|HistoryStack|ctor|uint capacity|METHOD|3|FULL HAVOC
+|System.Management.Automation|SessionStateScope|ctor|System.Management.Automation.SessionStateScope parentScope|METHOD|3|FULL HAVOC
+|System.Collections|ArrayList|ctor||METHOD|3|Fresh.{Many}.{P}.{RV.?;RO.?}.{[RV, RO, ?]}<EOF>
+|System.Management.Automation|PSVariable|ctor|string name,object value,System.Management.Automation.ScopedItemOptions options|METHOD|6|FULL HAVOC
+|System.Management.Automation|SessionStateScope|SetVariable|string name,object value,bool asValue,bool force,System.Management.Automation.SessionStateInternal sessionState,System.Management.Automation.CommandOrigin origin,bool fastPath|METHOD|6|FULL HAVOC
+|System.Collections.ObjectModel|Collection|ctor||METHOD|3|FULL HAVOC
+|System.Management.Automation|ArgumentTypeConverterAttribute|ctor|System.Type[] types|METHOD|3|FULL HAVOC
+|System.Collections.ObjectModel|Collection|Add|System.Attribute item|METHOD|3|FULL HAVOC
+|System.Management.Automation|DefaultParameterDictionary|ctor||METHOD|3|FULL HAVOC
+|System|Func|.ctor||PROPERTY|3|FULL HAVOC
+|System.Management.Automation|MutableTuple|MakeTuple|System.Type tupleType,System.Collections.Generic.Dictionary<string, int> nameToIndexMap,System.Func<System.Management.Automation.MutableTuple> creator|METHOD|3|FULL HAVOC
+|System.Management.Automation|ExecutionContext|ctor|System.Management.Automation.AutomationEngine engine,System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState initialSessionState|METHOD|1|FULL HAVOC
+|System.Management.Automation|SessionStateInternal|Drives|string scope|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|NotNull|object object|METHOD|1|Null.{}.{P}.{}.{}<EOF>

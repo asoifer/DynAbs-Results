@@ -1,0 +1,4 @@
+|||FirstProcess||OTHER|0|
+|System|Span|.ctor||PROPERTY|1|FULL HAVOC
+|System.Linq|Enumerable|Contains|System.Collections.Generic.IEnumerable<char> source,char value|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|Equal|string expected,string actual|METHOD|1|Null.{}.{P}.{}.{}<EOF>

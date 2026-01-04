@@ -1,0 +1,2 @@
+PSObjectTests_TestAdaptedMember||771|521|63|20.6160513||0.1091601|51|1972||
+PSObjectTests_TestAdaptedMember||772|522|63|20.6160513||0.1095351|51|1978||

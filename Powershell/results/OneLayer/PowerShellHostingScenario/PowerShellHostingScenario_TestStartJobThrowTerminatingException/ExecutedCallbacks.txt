@@ -1,0 +1,5 @@
+|||FirstProcess||OTHER|0|||PSTests.Sequential|PowerShellHostingScenario|TestStartJobThrowTerminatingException||METHOD|1|
+|System.Management.Automation|PSCommand|AddCommand|string command|METHOD|1|FULL HAVOC||System.Management.Automation|PowerShell|AssertChangesAreAccepted||METHOD|1|
+|System.Management.Automation|PSCommand|AddParameter|string parameterName,object value|METHOD|1|FULL HAVOC||System.Management.Automation|PowerShell|AssertChangesAreAccepted||METHOD|1|
+|PSTests|CustomAssert|Throws|System.Func<object> testCode|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}||System.Management.Automation|PowerShell|Invoke||METHOD|1|
+|System.Management.Automation.Runspaces|Pipeline|Invoke||METHOD|1|FULL HAVOC||System.Management.Automation|PowerShell|PipelineStateChanged|object source,System.Management.Automation.Runspaces.PipelineStateEventArgs stateEventArgs|METHOD|1|

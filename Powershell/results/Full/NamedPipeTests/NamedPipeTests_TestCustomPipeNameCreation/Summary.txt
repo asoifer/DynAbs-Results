@@ -1,0 +1,3 @@
+NamedPipeTests_TestCustomPipeNameCreation||262|199|7|20.6160513||0.0778091|18|525||
+NamedPipeTests_TestCustomPipeNameCreation||361|203|7|20.6160513||0.0838192|18|746||
+NamedPipeTests_TestCustomPipeNameCreation||365|204|7|20.6160513||0.0841291|18|760||

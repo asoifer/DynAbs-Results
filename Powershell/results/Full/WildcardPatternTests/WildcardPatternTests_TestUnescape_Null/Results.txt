@@ -1,0 +1,8 @@
+MshTraceSource.cs:237
+MshTraceSource.cs:239
+regex.cs:330
+regex.cs:332
+regex.cs:334
+test_WildcardPattern.cs:10
+test_WildcardPattern.cs:76
+---- Last slice: [test_WildcardPattern.cs - 76]

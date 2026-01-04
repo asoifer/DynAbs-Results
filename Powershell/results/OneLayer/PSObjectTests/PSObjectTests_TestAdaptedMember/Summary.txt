@@ -1,0 +1,4 @@
+PSObjectTests_TestAdaptedMember||187|153|84|69.7526084||0.0983917|51|431||
+PSObjectTests_TestAdaptedMember||188|154|84|69.7526084||0.0987434|51|434||
+PSObjectTests_TestAdaptedMember||187|153|84|20.5946278||0.0673022|51|431||
+PSObjectTests_TestAdaptedMember||188|154|84|20.5946278||0.0676434|51|434||

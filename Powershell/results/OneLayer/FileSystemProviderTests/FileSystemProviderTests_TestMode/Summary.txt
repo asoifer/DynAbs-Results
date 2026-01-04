@@ -1,0 +1,8 @@
+FileSystemProviderTests_TestMode||15|22|8|69.7526084||0.1262678|36|44||
+FileSystemProviderTests_TestMode||47|57|23|69.7526084||0.1432277|36|124||
+FileSystemProviderTests_TestMode||73|73|37|69.7526084||0.149048|36|205||
+FileSystemProviderTests_TestMode||99|74|37|69.7526084||0.1518518|36|286||
+FileSystemProviderTests_TestMode||15|22|8|20.5946278||0.1069193|36|44||
+FileSystemProviderTests_TestMode||47|57|23|20.5946278||0.1231261|36|124||
+FileSystemProviderTests_TestMode||73|73|37|20.5946278||0.1290582|36|205||
+FileSystemProviderTests_TestMode||99|74|37|20.5946278||0.1316524|36|286||

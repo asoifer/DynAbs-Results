@@ -1,0 +1,4 @@
+PSObjectTests_TestMemberSet||214|155|72|69.7526084||0.0504174|91|494||
+PSObjectTests_TestMemberSet||215|156|72|69.7526084||0.0507313|91|497||
+PSObjectTests_TestMemberSet||214|155|72|20.5946278||0.025694|91|494||
+PSObjectTests_TestMemberSet||215|156|72|20.5946278||0.0260043|91|497||

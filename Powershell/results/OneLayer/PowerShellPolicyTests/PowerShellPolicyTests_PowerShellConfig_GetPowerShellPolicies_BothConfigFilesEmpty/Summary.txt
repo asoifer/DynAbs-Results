@@ -1,0 +1,4 @@
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_BothConfigFilesEmpty||141|141|51|69.7526084||0.0604846|13|387||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_BothConfigFilesEmpty||142|142|51|69.7526084||0.060915|13|389||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_BothConfigFilesEmpty||141|141|51|20.5946278||0.0463239|13|387||
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_BothConfigFilesEmpty||142|142|51|20.5946278||0.0467914|13|389||

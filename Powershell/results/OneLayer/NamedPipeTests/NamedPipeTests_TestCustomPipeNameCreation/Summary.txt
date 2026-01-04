@@ -1,0 +1,6 @@
+NamedPipeTests_TestCustomPipeNameCreation||186|154|6|69.7526084||0.103887|18|346||
+NamedPipeTests_TestCustomPipeNameCreation||252|158|6|69.7526084||0.1118983|18|492||
+NamedPipeTests_TestCustomPipeNameCreation||255|159|6|69.7526084||0.1121392|18|502||
+NamedPipeTests_TestCustomPipeNameCreation||186|154|6|20.5946278||0.0800804|18|346||
+NamedPipeTests_TestCustomPipeNameCreation||252|158|6|20.5946278||0.0877871|18|492||
+NamedPipeTests_TestCustomPipeNameCreation||255|159|6|20.5946278||0.0880109|18|502||

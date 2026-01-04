@@ -1,0 +1,3 @@
+PSObjectTests_TestShadowedMember||771|521|63|20.6160513||0.1146085|51|1972||
+PSObjectTests_TestShadowedMember||772|522|63|20.6160513||0.1150925|51|1978||
+PSObjectTests_TestShadowedMember||773|523|63|20.6160513||0.1154255|51|1984||

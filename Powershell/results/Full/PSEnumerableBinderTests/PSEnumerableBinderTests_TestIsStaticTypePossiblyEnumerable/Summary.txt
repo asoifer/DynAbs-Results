@@ -1,0 +1,2 @@
+PSEnumerableBinderTests_TestIsStaticTypePossiblyEnumerable||12|18|6|20.6160513||0.5468311|1|47||
+PSEnumerableBinderTests_TestIsStaticTypePossiblyEnumerable||12|18|6|20.6160513||0.0033082|1|47||

@@ -1,0 +1,4 @@
+RunspaceTests_TestRunspaceWithPowerShellAndInitialSessionState||69|69|53|69.7526084||0.3389428|8157|162||
+RunspaceTests_TestRunspaceWithPowerShellAndInitialSessionState||70|70|56|69.7526084||0.3393085|8157|166||
+RunspaceTests_TestRunspaceWithPowerShellAndInitialSessionState||69|69|53|20.5946278||0.2451285|8157|162||
+RunspaceTests_TestRunspaceWithPowerShellAndInitialSessionState||70|70|56|20.5946278||0.2454964|8157|166||

@@ -1,0 +1,66 @@
+|||FirstProcess||OTHER|0|
+|System.IO|Path|GetTempFileName||METHOD|1|FULL HAVOC
+|System.IO|File|Exists|string path|METHOD|1|FULL HAVOC
+|System.IO|File|Delete|string path|METHOD|1|FULL HAVOC
+|System.IO|File|AppendAllText|string path,string contents|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.IO|EnumerationOptions|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation.Provider|NavigationCmdletProvider|ctor||METHOD|108|FULL HAVOC
+|Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|2|FULL HAVOC
+|System.Management.Automation.Runspaces|InitialSessionState|CreateDefault2||METHOD|2|FULL HAVOC
+|System.Management.Automation|AutomationEngine|ctor|System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState iss|METHOD|2|FULL HAVOC
+|System|String|IsNullOrEmpty|string? value|METHOD|496|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|Replace|char oldChar,char newChar|METHOD|208|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|TrimEnd|char trimChar|METHOD|195|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|LastIndexOf|char value|METHOD|191|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|Substring|int startIndex|METHOD|178|Null.{}.{R;P}.{}.{}<EOF>
+|System.Management.Automation.Provider|NavigationCmdletProvider|GetParentPath|string path,string root|METHOD|191|FULL HAVOC
+|System.Management.Automation|Utils|PathIsUnc|string path|METHOD|227|FULL HAVOC
+|System|String|IndexOf|char value|METHOD|221|Null.{}.{R;P}.{}.{}<EOF>
+|System.IO|Directory|Exists|string path|METHOD|16|FULL HAVOC
+|System|String|Split|char separator,System.StringSplitOptions options|METHOD|10|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|Contains|char value|METHOD|94|Null.{}.{R;P}.{}.{}<EOF>
+|System.IO|Directory|GetFileSystemEntries|string path,string searchPattern|METHOD|88|FULL HAVOC
+|System.Linq|Enumerable|First|System.Collections.Generic.IEnumerable<string> source|METHOD|88|IsIn{R.*.OfType{Object};P.*}.{}.{R.?;R.*.?;P.?;P.*.?}.{}.{}<EOF>
+|System.IO|FileInfo|ctor|string fileName|METHOD|28|FULL HAVOC
+|System|Enum|HasFlag|System.Enum flag|METHOD|25|Null.{}.{R;P}.{}.{}<EOF>
+|System.IO|DirectoryInfo|ctor|string path|METHOD|24|Fresh.{}.{P}.{RV.?}.{}<EOF>
+|System.Management.Automation|LocationGlobber|IsSingleFileSystemAbsolutePath|string path|METHOD|2|FULL HAVOC
+|System.Management.Automation|PSTraceSource|WriteLine|string format,object arg1|METHOD|95|FULL HAVOC
+|System|String|StartsWith|string value,System.StringComparison comparisonType|METHOD|8|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|EndsWith|string value,System.StringComparison comparisonType|METHOD|10|Null.{}.{R;P}.{}.{}<EOF>
+|System|String|Equals|string? a,string? b,System.StringComparison comparisonType|METHOD|70|Null.{}.{R;P}.{}.{}<EOF>
+|System.IO|Path|GetPathRoot|string? path|METHOD|26|FULL HAVOC
+|System.Collections.Generic|Stack|ctor||METHOD|4|FULL HAVOC
+|System.Collections.Generic|Stack|Push|string item|METHOD|44|FULL HAVOC
+|System.Collections.Generic|Stack|Pop||METHOD|44|FULL HAVOC
+|System.Management.Automation.Provider|NavigationCmdletProvider|MakePath|string parent,string child|METHOD|42|FULL HAVOC
+|System.Management.Automation|ExecutionContext|ctor|System.Management.Automation.AutomationEngine engine,System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState initialSessionState|METHOD|2|FULL HAVOC
+|System.Management.Automation|SessionStateInternal|ctor|System.Management.Automation.ExecutionContext context|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|SessionStateProviderEntry|ctor|string name,System.Type implementingType,string helpFileName|METHOD|1|FULL HAVOC
+|System.Management.Automation|SessionStateInternal|AddSessionStateEntry|System.Management.Automation.Runspaces.SessionStateProviderEntry providerEntry|METHOD|1|FULL HAVOC
+|System|Environment|GetEnvironmentVariable|string variable|METHOD|1|Null.{}.{R;P}.{}.{}<EOF>
+|System|Version|ctor|int major,int minor,int build,int revision|METHOD|1|FULL HAVOC
+|Microsoft.PowerShell.Commands|NativeMethods|RtlQueryProcessPlaceholderCompatibilityMode||METHOD|1|FULL HAVOC
+|System.Collections.ObjectModel|Collection|ctor||METHOD|2|FULL HAVOC
+|System.IO|DriveInfo|GetDrives||METHOD|1|FULL HAVOC
+|System.Management.Automation|PSDriveInfo|ctor|string name,System.Management.Automation.ProviderInfo provider,string root,string description,System.Management.Automation.PSCredential credential,string displayRoot|METHOD|2|FULL HAVOC
+|System.Collections.ObjectModel|Collection|Add|System.Management.Automation.PSDriveInfo item|METHOD|3|FULL HAVOC
+|System.IO|Path|GetTempPath||METHOD|1|FULL HAVOC
+|Microsoft.PowerShell.Commands|NativeMethods|PathGetDriveNumber|string path|METHOD|2|FULL HAVOC
+|System.Text|StringBuilder|ctor|int capacity|METHOD|2|FULL HAVOC
+|Microsoft.PowerShell.Commands|NativeMethods|WNetGetConnection|string localName,System.Text.StringBuilder remoteName,int remoteNameLength|METHOD|2|FULL HAVOC
+|System.IO|DriveInfo|ctor|string driveName|METHOD|2|FULL HAVOC
+|System.Management.Automation|PSDriveInfo|Trace||METHOD|2|FULL HAVOC
+|System.Linq|Enumerable|ToList|System.Collections.Generic.IEnumerable<System.Management.Automation.ProviderInfo> source|METHOD|1|FULL HAVOC
+|System.Collections.Generic|List|get_Item|int index|METHOD|1|IsIn{R.*.UntilType{@RV}.OfType{@RV}}.{}.{R;R.?;R.?.?;P}.{}.{}<EOF>
+|System.Management.Automation.Provider|CmdletProvider|SetProviderInformation|System.Management.Automation.ProviderInfo providerInfoToSet|METHOD|1|FULL HAVOC
+|System.Management.Automation|CmdletProviderContext|ctor|System.Management.Automation.ExecutionContext executionContext|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|2|FULL HAVOC
+|System.Management.Automation|PSMemberInfoCollection|get_Item|string name|METHOD|2|FULL HAVOC
+|System.Management.Automation|PSObject|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation|PSNoteProperty|ctor|string name,object value|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSMemberInfoCollection|Add|System.Management.Automation.PSPropertyInfo member|METHOD|1|FULL HAVOC
+|System.Management.Automation.Provider|CmdletProvider|WritePropertyObject|object propertyValue,string path|METHOD|1|FULL HAVOC
+|Microsoft.PowerShell.Commands|FileSystemProvider|GetProperty|string path,System.Collections.ObjectModel.Collection<string> providerSpecificPickList|METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|Equal|object expected,object actual|METHOD|1|Null.{}.{P}.{}.{}<EOF>

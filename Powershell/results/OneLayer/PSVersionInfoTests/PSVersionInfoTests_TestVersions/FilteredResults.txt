@@ -1,0 +1,5 @@
+PSVersionInfo.cs:39
+PSVersionInfo.cs:116
+PSVersionInfo.cs:121
+test_PSVersionInfo.cs:17
+---- Last slice: [test_PSVersionInfo.cs - 17]

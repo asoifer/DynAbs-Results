@@ -1,0 +1,44 @@
+Dummy.cs:1
+---- Last slice: [test_PSObject.cs - 78]
+MshMemberInfo.cs:205 // From 203 to 211, there are all initializations (like the names)
+MshMemberInfo.cs:221
+MshMemberInfo.cs:1311
+MshMemberInfo.cs:1312
+MshMemberInfo.cs:1313
+MshMemberInfo.cs:3086
+MshMemberInfo.cs:3227
+MshMemberInfo.cs:3229
+MshMemberInfo.cs:3230
+MshMemberInfo.cs:3232
+MshMemberInfo.cs:3236
+MshMemberInfo.cs:4076
+MshMemberInfo.cs:4079
+MshMemberInfo.cs:4085
+MshMemberInfo.cs:4506
+MshMemberInfo.cs:4507
+MshMemberInfo.cs:4518
+MshMemberInfo.cs:4541
+MshMemberInfo.cs:4587
+MshMemberInfo.cs:4608
+MshMemberInfo.cs:4608
+MshMemberInfo.cs:4644 // We would need to see where it goes
+MshMemberInfo.cs:4646
+MshMemberInfo.cs:4667
+MshMemberInfo.cs:4975
+MshMemberInfo.cs:4978
+MshMemberInfo.cs:4981
+MshMemberInfo.cs:4983
+MshMemberInfo.cs:4985
+MshObject.cs:247 // (*) (initialization)
+MshObject.cs:265 // (*) (initialization)
+MshObject.cs:308 // (*) (initialization)
+MshObject.cs:639 // (*) (initialization read-only)
+MshObject.cs:740 // (*) (control dependency)
+MshObject.cs:744 // (*) (control dependency)
+MshObject.cs:746 // (*) (internal initialization)
+MshObject.cs:751 // (*) (return of members)
+test_PSObject.cs:72 // 73/74 are not part of the slice, they are not being used from this criterion
+test_PSObject.cs:75
+test_PSObject.cs:77
+test_PSObject.cs:79
+---- Last slice: [test_PSObject.cs - 79]

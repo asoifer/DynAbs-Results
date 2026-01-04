@@ -1,0 +1,8 @@
+ExtensionMethods.cs:94 // LanguagePrimitives.IsNumeric(LanguagePrimitives.GetTypeCode(type));
+ExtensionMethods.cs:120 // OK
+LanguagePrimitives.cs:1186 // type.GetTypeCode();
+LanguagePrimitives.cs:1243 // s_typeCodeTraits
+LanguagePrimitives.cs:1313 // return (s_typeCodeTraits[(int)typeCode] & TypeCodeTraits.Numeric) != 0;
+test_ExtensionMethods.cs:15 // OK
+---- Last slice: [test_ExtensionMethods.cs - 15]
+// Notas: I didn't include the enum declarations

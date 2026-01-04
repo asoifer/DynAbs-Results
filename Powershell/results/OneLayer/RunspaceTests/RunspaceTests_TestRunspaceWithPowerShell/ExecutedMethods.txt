@@ -1,0 +1,38 @@
+|System|String|Format|string format,object?[] args|METHOD|1|Null.{}.{R;P}.{}.{}<EOF>
+|||FirstProcess||OTHER|0|
+|System.Management.Automation|Platform|GetFolderPath|System.Environment.SpecialFolder folder|METHOD|1|FULL HAVOC
+|System.IO|Path|Combine|string path1,string path2|METHOD|2|FULL HAVOC
+|System|Object|ctor||METHOD|1|Fresh.{}.{}.{RV.?}.{}<EOF>
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description,bool traceHeaders|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceFactory|CreateRunspace||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceBase|ctor|System.Management.Automation.Host.PSHost host|METHOD|2|FULL HAVOC
+|System.Management.Automation.Runspaces|Runspace|Open||METHOD|1|FULL HAVOC
+|System.Management.Automation|Diagnostics|Assert|bool condition,string whyThisShouldNeverHappen|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|WriteLine|string format|METHOD|3|FULL HAVOC
+|System.Management.Automation.Host|TranscriptionData|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation|AutomationEngine|ctor|System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState iss|METHOD|1|FULL HAVOC
+|System.Management.Automation|MshLog|LogEngineLifecycleEvent|System.Management.Automation.ExecutionContext executionContext,System.Management.Automation.EngineState engineState|METHOD|2|FULL HAVOC
+|Microsoft.PowerShell.Commands|History|ctor|System.Management.Automation.ExecutionContext context|METHOD|1|FULL HAVOC
+|System.Management.Automation|JobRepository|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation|JobManager|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation|RunspaceRepository|ctor||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|LocalRunspace|InitializeDefaults||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceBase|SetRunspaceState|System.Management.Automation.Runspaces.RunspaceState state|METHOD|2|FULL HAVOC
+|System.Threading|ManualResetEventSlim|Set||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceBase|RaiseRunspaceStateEvents||METHOD|2|FULL HAVOC
+|System.Management.Automation.Runspaces|InitialSessionState|BindRunspace|System.Management.Automation.Runspaces.Runspace initializedRunspace,System.Management.Automation.PSTraceSource runspaceInitTracer|METHOD|1|FULL HAVOC
+|System.Management.Automation|PowerShell|Create||METHOD|1|FULL HAVOC
+|System.Management.Automation|PowerShell|AddScript|string script|METHOD|1|FULL HAVOC
+|System.Management.Automation|PowerShell|Invoke||METHOD|1|FULL HAVOC
+|PSTests|CustomAssert|NotNull|object object|METHOD|1|Null.{}.{P}.{}.{}<EOF>
+|PSTests|CustomAssert|Equal|int expected,int actual|METHOD|1|Null.{}.{P}.{}.{}<EOF>
+|System.Management.Automation.Runspaces|RunspaceBase|Close||METHOD|2|FULL HAVOC
+|System.Management.Automation.Host|PSHostUserInterface|StopAllTranscribing||METHOD|1|FULL HAVOC
+|System.Management.Automation|AmsiUtils|Uninitialize||METHOD|1|FULL HAVOC
+|System.Management.Automation|PSEventManager|GenerateEvent|string sourceIdentifier,object sender,object[] args,System.Management.Automation.PSObject extraData,bool processInCurrentThread,bool waitForCompletionInCurrentThread|METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|RunspaceBase|StopPipelines||METHOD|1|FULL HAVOC
+|System|Func|Invoke||METHOD|1|FULL HAVOC
+|System.Management.Automation|ExecutionContext|RunspaceClosingNotification||METHOD|1|FULL HAVOC
+|System.Threading|ManualResetEventSlim|Dispose||METHOD|1|FULL HAVOC
+|System.Management.Automation|Platform|RemoveTemporaryDirectory||METHOD|1|FULL HAVOC
+|System.Management.Automation.Runspaces|Runspace|Dispose|bool disposing|METHOD|1|FULL HAVOC

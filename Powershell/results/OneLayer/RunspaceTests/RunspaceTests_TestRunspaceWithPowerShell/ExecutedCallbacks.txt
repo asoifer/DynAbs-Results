@@ -1,0 +1,10 @@
+|||FirstProcess||OTHER|0|||PSTests.Sequential|RunspaceTests|||PROPERTY|1|
+|||FirstProcess||OTHER|0|||PSTests.Sequential|RunspaceTests|TestRunspaceWithPowerShell||METHOD|1|
+|System.Management.Automation.Runspaces|RunspaceFactory|CreateRunspace||METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|ctor|System.Management.Automation.Host.PSHost host,System.Management.Automation.Runspaces.InitialSessionState initialSessionState|METHOD|1|
+|System.Management.Automation.Runspaces|RunspaceBase|ctor|System.Management.Automation.Host.PSHost host|METHOD|2|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|set_ThreadOptions|System.Management.Automation.Runspaces.PSThreadOptions value|METHOD|1|
+|System.Management.Automation.Runspaces|Runspace|Open||METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|OpenHelper|bool syncCall|METHOD|1|
+|System.Management.Automation.Runspaces|InitialSessionState|BindRunspace|System.Management.Automation.Runspaces.Runspace initializedRunspace,System.Management.Automation.PSTraceSource runspaceInitTracer|METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|get_GetExecutionContext||METHOD|1|
+|System.Management.Automation|PowerShell|Invoke||METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|get_ThreadOptions||METHOD|2|
+|System.Management.Automation|PowerShell|Invoke||METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|get_GetExecutionContext||METHOD|5|
+|System.Management.Automation.Runspaces|RunspaceBase|Close||METHOD|2|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|CloseHelper|bool syncCall|METHOD|1|
+|System|Func|Invoke||METHOD|1|FULL HAVOC||System.Management.Automation.Runspaces|LocalRunspace|get_RunspaceRepository||METHOD|1|
