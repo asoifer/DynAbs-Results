@@ -1,0 +1,10 @@
+Total lines: 2859922
+Skipped lines: 223873
+Skipped lines (percentage): 7.83%
+Total files with lines: 523
+Total executed files excluded: 108
+Total executed files excluded (percentage): 20.65
+Skipped via get mode (callback): 35594
+Skipped via get mode (body): 183543
+Excluded folders: 
+=========
