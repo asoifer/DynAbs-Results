@@ -1,6 +1,3 @@
-PSObjectTests_TestShadowedMember||187|153|84|69.7526084||0.0306531|51|431||
-PSObjectTests_TestShadowedMember||188|154|84|69.7526084||0.0309719|51|434||
-PSObjectTests_TestShadowedMember||189|155|84|69.7526084||0.0312461|51|437||
-PSObjectTests_TestShadowedMember||187|153|84|20.5946278||0.0161442|51|431||
-PSObjectTests_TestShadowedMember||188|154|84|20.5946278||0.0164858|51|434||
-PSObjectTests_TestShadowedMember||189|155|84|20.5946278||0.0167503|51|437||
+PSObjectTests_TestShadowedMember||187|153|84|102.9688572||0.0144952|51|431|||371|669|2|1|1|0.02
+PSObjectTests_TestShadowedMember||188|154|84|102.9688572||0.0147575|51|434|||373|672|2|1|1|0.0104
+PSObjectTests_TestShadowedMember||189|155|84|102.9688572||0.0149647|51|437|||375|675|2|1|1|0.0094

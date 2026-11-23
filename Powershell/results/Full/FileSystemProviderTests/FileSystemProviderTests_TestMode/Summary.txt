@@ -1,4 +1,4 @@
-FileSystemProviderTests_TestMode||77|90|8|20.6160513||0.0346812|36|156||
-FileSystemProviderTests_TestMode||464|334|37|20.6160513||0.089746|36|1078||
-FileSystemProviderTests_TestMode||530|350|51|20.6160513||0.0953235|36|1241||
-FileSystemProviderTests_TestMode||596|351|51|20.6160513||0.1001704|36|1404||
+FileSystemProviderTests_TestMode||77|90|8|102.9688572||0.0132392|36|156|||171|241|1|1|1|0.0204
+FileSystemProviderTests_TestMode||464|334|37|102.9688572||0.0576382|36|1078|||901|1514|4|3|3|0.0384
+FileSystemProviderTests_TestMode||530|350|51|102.9688572||0.0611932|36|1241|||1037|1778|4|3|3|0.0359
+FileSystemProviderTests_TestMode||596|351|51|102.9688572||0.0640553|36|1404|||1173|2042|4|3|3|0.033

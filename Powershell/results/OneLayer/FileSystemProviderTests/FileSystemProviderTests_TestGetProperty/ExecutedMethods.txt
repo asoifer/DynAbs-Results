@@ -3,7 +3,7 @@
 |System.IO|File|Exists|string path|METHOD|1|FULL HAVOC
 |System.IO|File|Delete|string path|METHOD|1|FULL HAVOC
 |System.IO|File|AppendAllText|string path,string contents|METHOD|1|FULL HAVOC
-|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.IO|EnumerationOptions|ctor||METHOD|1|FULL HAVOC
 |System.Management.Automation.Provider|NavigationCmdletProvider|ctor||METHOD|108|FULL HAVOC
 |Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|2|FULL HAVOC
@@ -58,7 +58,7 @@
 |System.Management.Automation|CmdletProviderContext|ctor|System.Management.Automation.ExecutionContext executionContext|METHOD|1|FULL HAVOC
 |System.Management.Automation|PSObject|ctor||METHOD|3|FULL HAVOC
 |System.Management.Automation|PSObject|AddOrSetProperty|string memberName,object value|METHOD|1|FULL HAVOC
-|System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|5|FULL HAVOC
+|System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|5|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.Management.Automation|PSObject|ToString||METHOD|1|FULL HAVOC
 |System|String|Format|System.IFormatProvider? provider,string format,object? arg0,object? arg1,object? arg2|METHOD|1|Null.{}.{R;P}.{}.{}<EOF>
 |System.Management.Automation.Provider|CmdletProvider|ShouldProcess|string target,string action|METHOD|1|FULL HAVOC

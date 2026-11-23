@@ -172,7 +172,6 @@
 |System.Collections.Concurrent|ConcurrentBag|ctor||METHOD|2|FULL HAVOC
 |System.Threading.Tasks|Parallel|ForEach|System.Collections.Generic.IEnumerable<System.Management.Automation.Runspaces.SessionStateTypeEntry> source,System.Action<System.Management.Automation.Runspaces.SessionStateTypeEntry> body|METHOD|2|FULL HAVOC
 |System.Collections.ObjectModel|Collection|GetEnumerator||METHOD|2|FULL HAVOC
-|System|AggregateException|ctor||PROPERTY|1|FULL HAVOC
 |System|AggregateException|Flatten||METHOD|1|FULL HAVOC
 |System|Version|ToString||METHOD|2|FULL HAVOC
 |System|Guid|ToString||METHOD|2|Null.{}.{R;R.?;P}.{}.{}<EOF>

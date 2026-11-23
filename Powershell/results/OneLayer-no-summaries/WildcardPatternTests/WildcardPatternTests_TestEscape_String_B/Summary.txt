@@ -1,0 +1,1 @@
+WildcardPatternTests_TestEscape_String_B||39|39|20|92.280909||0.0274232|2|92|||80|133|1|1|1|0.0089|3

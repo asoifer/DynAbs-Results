@@ -3,7 +3,7 @@
 |System.IO|File|Exists|string path|METHOD|1|FULL HAVOC
 |System.IO|File|Delete|string path|METHOD|1|FULL HAVOC
 |System.IO|File|AppendAllText|string path,string contents|METHOD|1|FULL HAVOC
-|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.IO|EnumerationOptions|ctor||METHOD|1|FULL HAVOC
 |System.Management.Automation.Provider|NavigationCmdletProvider|ctor||METHOD|108|FULL HAVOC
 |Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|2|FULL HAVOC
@@ -62,4 +62,4 @@
 |System.IO|Stream|Dispose||METHOD|1|FULL HAVOC
 |System.Management.Automation.Provider|CmdletProvider|WriteItemObject|object item,string path,bool isContainer|METHOD|1|FULL HAVOC
 |System.IO|File|ReadAllText|string path|METHOD|1|FULL HAVOC
-|PSTests|CustomAssert|Empty|System.Collections.IEnumerable enumerable|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|Empty|System.Collections.IEnumerable enumerable|METHOD|1|Null.{}.{P;P.?;P.*.?}.{}.{}<EOF>

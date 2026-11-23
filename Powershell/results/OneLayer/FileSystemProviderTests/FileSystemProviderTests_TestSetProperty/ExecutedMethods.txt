@@ -3,7 +3,7 @@
 |System.IO|File|Exists|string path|METHOD|1|FULL HAVOC
 |System.IO|File|Delete|string path|METHOD|1|FULL HAVOC
 |System.IO|File|AppendAllText|string path,string contents|METHOD|1|FULL HAVOC
-|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.IO|EnumerationOptions|ctor||METHOD|1|FULL HAVOC
 |System.Management.Automation.Provider|NavigationCmdletProvider|ctor||METHOD|108|FULL HAVOC
 |Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|2|FULL HAVOC
@@ -56,7 +56,7 @@
 |System.Collections.Generic|List|get_Item|int index|METHOD|1|IsIn{R.*.UntilType{@RV}.OfType{@RV}}.{}.{R;R.?;R.?.?;P}.{}.{}<EOF>
 |System.Management.Automation.Provider|CmdletProvider|SetProviderInformation|System.Management.Automation.ProviderInfo providerInfoToSet|METHOD|1|FULL HAVOC
 |System.Management.Automation|CmdletProviderContext|ctor|System.Management.Automation.ExecutionContext executionContext|METHOD|1|FULL HAVOC
-|System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|2|FULL HAVOC
+|System.Management.Automation|PSObject|AsPSObject|object obj|METHOD|2|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.Management.Automation|PSMemberInfoCollection|get_Item|string name|METHOD|2|FULL HAVOC
 |System.Management.Automation|PSObject|ctor||METHOD|1|FULL HAVOC
 |System.Management.Automation|PSNoteProperty|ctor|string name,object value|METHOD|1|FULL HAVOC

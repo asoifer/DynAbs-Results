@@ -14,7 +14,7 @@
 |Newtonsoft.Json.Linq|JObject|ctor||METHOD|1|FULL HAVOC
 |System.Threading|ReaderWriterLockSlim|ctor||METHOD|1|FULL HAVOC
 |System.Reflection|FieldInfo|GetValue|object? obj|METHOD|1|FULL HAVOC
-|System.Management.Automation|Utils|GetPolicySetting|System.Management.Automation.Configuration.ConfigScope[] preferenceOrder|METHOD|28|FULL HAVOC
+|System.Management.Automation|Utils|GetPolicySetting|System.Management.Automation.Configuration.ConfigScope[] preferenceOrder|METHOD|28|Fresh.{}.{P;P.*.?;G;G.?;G.*.?}.{RV.?}.{}<EOF>
 |System.Management.Automation.Configuration|PowerShellPolicies|.ctor||PROPERTY|31|FULL HAVOC
 |System.Threading|ReaderWriterLockSlim|EnterReadLock||METHOD|2|FULL HAVOC
 |System.IO|FileStream|ctor|string path,System.IO.FileMode mode,System.IO.FileAccess access,System.IO.FileShare share|METHOD|2|FULL HAVOC

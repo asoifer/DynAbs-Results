@@ -1,0 +1,2 @@
+UtilsTests_TestConvertToJsonWithEnum||5|7|6|92.280909||0.0317835|241|13|||11|19|2|2|2|0.0086|9
+UtilsTests_TestConvertToJsonWithEnum||9|11|8|92.280909||0.0319224|241|20|||19|37|2|2|2|0.0035|14

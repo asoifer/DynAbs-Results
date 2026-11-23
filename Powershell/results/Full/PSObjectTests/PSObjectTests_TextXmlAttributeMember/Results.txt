@@ -1,9 +1,14 @@
 CoreAdapter.cs:411
 CoreAdapter.cs:415
+CoreAdapter.cs:2560
+CoreAdapter.cs:2562
+CoreAdapter.cs:4643
+CoreAdapter.cs:5040
 CoreAdapter.cs:5141
 CoreAdapter.cs:5143
 CoreAdapter.cs:5145
 CoreAdapter.cs:5147
+CoreAdapter.cs:5222
 CoreAdapter.cs:5332
 CoreAdapter.cs:5334
 CoreAdapter.cs:5335
@@ -113,6 +118,7 @@ MshObject.cs:628
 MshObject.cs:629
 MshObject.cs:631
 MshObject.cs:641
+MshObject.cs:644
 MshObject.cs:661
 MshObject.cs:669
 MshObject.cs:671
@@ -142,6 +148,9 @@ MshObject.cs:1073
 MshObject.cs:1075
 MshObject.cs:1081
 MshObject.cs:1094
+MshObject.cs:2119
+MshObject.cs:2121
+MshObject.cs:2122
 MshObject.cs:2379
 MshObject.cs:2384
 MshObject.cs:2389

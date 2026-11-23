@@ -107,7 +107,7 @@
 |System.Linq|Enumerable|FirstOrDefault|System.Collections.Generic.IEnumerable<System.Management.Automation.Language.Ast> source|METHOD|853|FULL HAVOC
 |System.Collections.Concurrent|ConcurrentDictionary|TryAdd|System.Tuple<string, string> key,System.Management.Automation.ScriptBlock value|METHOD|2|FULL HAVOC
 |System|String|IsNullOrWhiteSpace|string? value|METHOD|47|Null.{}.{R;P}.{}.{}<EOF>
-|PSTests|CustomAssert|Throws|System.Func<object> testCode|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|Throws|System.Func<object> testCode|METHOD|1|Null.{}.{P;P.?;P.*.?}.{}.{}<EOF>
 |System.Threading|AutoResetEvent|ctor|bool initialState|METHOD|2|FULL HAVOC
 |System.Threading|ManualResetEvent|ctor|bool initialState|METHOD|3|FULL HAVOC
 |System.Threading|EventWaitHandle|Set||METHOD|4|FULL HAVOC
@@ -283,5 +283,5 @@
 |System.Threading|WaitHandle|WaitOne||METHOD|1|FULL HAVOC
 |System|EventHandler|Invoke|object? sender,System.Management.Automation.Runspaces.PipelineStateEventArgs e|METHOD|1|FULL HAVOC
 |System.Management.Automation.Runspaces|Pipeline|Dispose||METHOD|1|FULL HAVOC
-|PSTests|CustomAssert|IsType|object object|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|IsType|object object|METHOD|1|Null.{}.{P;P.?;P.*.?}.{}.{}<EOF>
 |PSTests|CustomAssert|Equal|string expected,string actual|METHOD|1|Null.{}.{P}.{}.{}<EOF>

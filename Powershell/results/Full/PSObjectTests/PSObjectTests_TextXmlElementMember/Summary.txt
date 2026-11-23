@@ -1,1 +1,1 @@
-PSObjectTests_TextXmlElementMember||509|417|160|20.6160513||0.0637754|31|1226||
+PSObjectTests_TextXmlElementMember||509|417|169|102.9688572||0.0958787|31|1226|||966|1788|3|2|1|0.0426

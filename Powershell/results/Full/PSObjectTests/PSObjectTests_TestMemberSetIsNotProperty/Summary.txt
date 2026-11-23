@@ -1,1 +1,1 @@
-PSObjectTests_TestMemberSetIsNotProperty||1789|752|14|20.6160513||0.2395366|130|4962||
+PSObjectTests_TestMemberSetIsNotProperty||1789|752|14|102.9688572||0.3368391|130|4962|||2599|5121|3|0|1|0.0591

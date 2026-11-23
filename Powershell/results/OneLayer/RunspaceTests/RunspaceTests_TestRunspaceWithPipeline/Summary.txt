@@ -1,4 +1,2 @@
-RunspaceTests_TestRunspaceWithPipeline||65|67|50|69.7526084||0.3406905|8111|156||
-RunspaceTests_TestRunspaceWithPipeline||66|68|53|69.7526084||0.3410823|8111|160||
-RunspaceTests_TestRunspaceWithPipeline||65|67|50|20.5946278||0.2830201|8111|156||
-RunspaceTests_TestRunspaceWithPipeline||66|68|53|20.5946278||0.2833925|8111|160||
+RunspaceTests_TestRunspaceWithPipeline||65|67|54|102.9688572||0.2008435|8111|156|||116|259|5|3|13|0.0231
+RunspaceTests_TestRunspaceWithPipeline||66|68|56|102.9688572||0.2011691|8111|160|||118|265|5|3|13|0.0191

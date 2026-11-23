@@ -3,7 +3,7 @@
 |Xunit|Skip|IfNot|bool condition,string reason|METHOD|1|FULL HAVOC
 |Microsoft.PowerShell|DefaultHost|ctor|System.Globalization.CultureInfo currentCulture,System.Globalization.CultureInfo currentUICulture|METHOD|1|FULL HAVOC
 |System.Management.Automation.Runspaces|InitialSessionState|CreateDefault2||METHOD|1|FULL HAVOC
-|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|FULL HAVOC
+|System.Management.Automation|PSTraceSource|GetTracer|string name,string description|METHOD|1|IsIn{R;R.*;P;P.*;G;G.*;RO}.{Many}.{R;R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?}.{R.?;R.*.?;P;P.?;P.*.?;G;G.?;G.*.?;RO.?}.{[R;R.*;P;P.*;G;G.*;RO, R;R.*;P;P.*;G;G.*;RO, ?]}<EOF>
 |System.Management.Automation|AutomationEngine|ctor|System.Management.Automation.Host.PSHost hostInterface,System.Management.Automation.Runspaces.InitialSessionState iss|METHOD|1|FULL HAVOC
 |System.Collections.Generic|List|ctor||METHOD|12|Fresh.{Single{System.Array}}.{P}.{RV.?;RO.?}.{[RV, RO, ?]}<EOF>
 |System.Collections.Generic|Dictionary|ctor|System.Collections.Generic.IEqualityComparer<string>? comparer|METHOD|6|Fresh.{Many{|DictInternal}}.{P}.{RV.?;RO.?}.{[RV;RO, RO, ?], [RO, P, ?]}<EOF>

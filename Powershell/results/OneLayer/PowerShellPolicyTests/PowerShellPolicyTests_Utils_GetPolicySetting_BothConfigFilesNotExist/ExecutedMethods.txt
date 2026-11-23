@@ -12,7 +12,7 @@
 |Newtonsoft.Json.Linq|JObject|ctor||METHOD|1|FULL HAVOC
 |System.Threading|ReaderWriterLockSlim|ctor||METHOD|1|FULL HAVOC
 |System.Reflection|FieldInfo|GetValue|object? obj|METHOD|1|FULL HAVOC
-|System.Management.Automation|Utils|GetPolicySetting|System.Management.Automation.Configuration.ConfigScope[] preferenceOrder|METHOD|28|FULL HAVOC
+|System.Management.Automation|Utils|GetPolicySetting|System.Management.Automation.Configuration.ConfigScope[] preferenceOrder|METHOD|28|Fresh.{}.{P;P.*.?;G;G.?;G.*.?}.{RV.?}.{}<EOF>
 |System.Management.Automation.Configuration|PowerShellPolicies|.ctor||PROPERTY|42|FULL HAVOC
 |System.Threading|Interlocked|CompareExchange|Newtonsoft.Json.Linq.JObject location1,Newtonsoft.Json.Linq.JObject value,Newtonsoft.Json.Linq.JObject comparand|METHOD|2|FULL HAVOC
 |PSTests|CustomAssert|Null|object object|METHOD|28|Null.{}.{P}.{}.{}<EOF>

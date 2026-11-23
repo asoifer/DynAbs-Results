@@ -1,0 +1,14 @@
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||157|144|51|92.280909||0.0377668|17|430|||323|733|3|3|3|0.04|82
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||158|145|100|92.280909||0.0379406|17|432|||324|735|3|3|3|0.0052|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||163|153|107|92.280909||0.0385276|17|448|||343|782|3|3|3|0.0083|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||164|154|107|92.280909||0.0387502|17|452|||345|788|3|3|3|0.0059|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||167|158|107|92.280909||0.0391187|17|466|||356|813|3|3|3|0.0065|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||168|159|107|92.280909||0.0393319|17|470|||358|819|3|3|3|0.0073|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||171|163|107|92.280909||0.0397105|17|484|||369|844|3|3|3|0.0067|83
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||173|165|108|92.280909||0.0461032|17|490|||371|848|3|3|3|0.0172|84
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||176|169|112|92.280909||0.0466019|17|505|||382|873|3|3|3|0.0079|84
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||178|171|113|92.280909||0.0468745|17|514|||385|880|3|3|3|0.0061|84
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||181|173|114|92.280909||0.0471599|17|523|||388|887|3|3|3|0.006|84
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||186|177|112|92.280909||0.0475814|17|542|||398|908|3|3|3|0.0075|85
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||189|181|116|92.280909||0.0479229|17|554|||408|929|3|3|3|0.0067|86
+PowerShellPolicyTests_PowerShellConfig_GetPowerShellPolicies_EmptySystemConfig||192|185|120|92.280909||0.0482613|17|566|||418|950|3|3|3|0.0065|87

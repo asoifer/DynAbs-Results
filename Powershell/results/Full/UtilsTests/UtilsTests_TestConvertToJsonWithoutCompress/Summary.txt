@@ -1,1 +1,1 @@
-UtilsTests_TestConvertToJsonWithoutCompress||3605|404|9|20.6160513||0.5733742|241|8862||
+UtilsTests_TestConvertToJsonWithoutCompress||3605|404|9|102.9688572||0.3478989|241|8862|||2823|5983|2|2|2|0.0319

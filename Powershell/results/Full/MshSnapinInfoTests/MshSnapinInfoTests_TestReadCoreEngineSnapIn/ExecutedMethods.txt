@@ -61,4 +61,4 @@
 |Newtonsoft.Json|JsonSerializer|Deserialize|Newtonsoft.Json.JsonReader reader|METHOD|1|FULL HAVOC
 |System.Threading|ReaderWriterLockSlim|ExitReadLock||METHOD|1|FULL HAVOC
 |Newtonsoft.Json.Linq|JObject|TryGetValue|string propertyName,System.StringComparison comparison,Newtonsoft.Json.Linq.JToken? value|METHOD|1|FULL HAVOC
-|PSTests|CustomAssert|Contains|string expectedSubstring,string actualString|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|Contains|string expectedSubstring,string actualString|METHOD|1|Null.{}.{P;P.?;P.*.?}.{}.{}<EOF>

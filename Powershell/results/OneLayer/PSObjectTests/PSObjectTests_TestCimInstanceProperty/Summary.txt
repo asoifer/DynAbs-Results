@@ -1,4 +1,2 @@
-PSObjectTests_TestCimInstanceProperty||126|106|7|69.7526084||0.2152801|5364|300||
-PSObjectTests_TestCimInstanceProperty||211|187|87|69.7526084||0.290398|5364|534||
-PSObjectTests_TestCimInstanceProperty||126|106|7|20.5946278||0.1817088|5364|300||
-PSObjectTests_TestCimInstanceProperty||211|187|87|20.5946278||0.217265|5364|534||
+PSObjectTests_TestCimInstanceProperty||126|106|96|102.9688572||0.1347547|5364|300|||258|506|1|1|1|0.0252
+PSObjectTests_TestCimInstanceProperty||211|187|154|102.9688572||0.1488793|5364|534|||434|902|1|1|1|0.0259

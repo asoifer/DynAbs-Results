@@ -1,0 +1,5 @@
+|||FirstProcess||OTHER|0|
+|System|Environment|GetFolderPath|System.Environment.SpecialFolder folder|METHOD|2|FULL HAVOC
+|System.Collections.Generic|List|ctor||METHOD|1|FULL HAVOC
+|System.Collections.Generic|List|Add|string item|METHOD|11|FULL HAVOC
+|PSTests|CustomAssert|True|bool condition|METHOD|1|FULL HAVOC

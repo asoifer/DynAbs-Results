@@ -1,4 +1,2 @@
-UtilsTests_TestConvertToJsonWithEnum||5|7|6|69.7526084||0.0173844|241|13||
-UtilsTests_TestConvertToJsonWithEnum||9|11|8|69.7526084||0.0177787|241|20||
-UtilsTests_TestConvertToJsonWithEnum||5|7|6|20.5946278||0.0072211|241|13||
-UtilsTests_TestConvertToJsonWithEnum||9|11|8|20.5946278||0.0075613|241|20||
+UtilsTests_TestConvertToJsonWithEnum||5|7|6|102.9688572||0.007703|241|13|||11|19|2|2|2|0.0275
+UtilsTests_TestConvertToJsonWithEnum||9|11|8|102.9688572||0.0082285|241|20|||19|37|2|2|2|0.0089

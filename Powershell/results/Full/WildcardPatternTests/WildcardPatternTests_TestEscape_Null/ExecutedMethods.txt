@@ -1,5 +1,5 @@
 |||FirstProcess||OTHER|0|
-|PSTests|CustomAssert|Throws|System.Action testCode|METHOD|1|Null.{}.{P;P<missing '}'>.*}.{}
+|PSTests|CustomAssert|Throws|System.Action testCode|METHOD|1|Null.{}.{P;P.?;P.*.?}.{}.{}<EOF>
 |System|Array|Empty||METHOD|1|FULL HAVOC
 |System|Object|ctor||METHOD|1|Fresh.{}.{}.{RV.?}.{}<EOF>
 |System.Threading|ThreadLocal|ctor||METHOD|1|FULL HAVOC

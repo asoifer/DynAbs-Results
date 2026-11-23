@@ -1,0 +1,15 @@
+MshMemberInfo.cs:5018
+MshObject.cs:547
+MshObject.cs:628
+MshObject.cs:760
+MshObject.cs:762
+MshObject.cs:766
+MshObject.cs:768
+MshObject.cs:773
+MshObject.cs:2412
+MshObject.cs:2414
+test_PSObject.cs:17
+test_PSObject.cs:22
+test_PSObject.cs:23
+test_PSObject.cs:24
+---- Last slice: [test_PSObject.cs - 24]

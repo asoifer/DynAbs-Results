@@ -13,6 +13,8 @@ LocalConnection.cs:311
 LocalConnection.cs:313
 LocalConnection.cs:325
 LocalConnection.cs:338
+LocalConnection.cs:366
+LocalConnection.cs:367
 LocalConnection.cs:594
 LocalConnection.cs:596
 LocalConnection.cs:599
@@ -39,7 +41,9 @@ LocalConnection.cs:1299
 LocalConnection.cs:1312
 LocalConnection.cs:1316
 LocalConnection.cs:1317
+LocalConnection.cs:1322
 test_Runspace.cs:14
+test_Runspace.cs:16
 test_Runspace.cs:17
 test_Runspace.cs:45
 test_Runspace.cs:47
@@ -64,6 +68,8 @@ LocalConnection.cs:311
 LocalConnection.cs:313
 LocalConnection.cs:325
 LocalConnection.cs:338
+LocalConnection.cs:366
+LocalConnection.cs:367
 LocalConnection.cs:594
 LocalConnection.cs:596
 LocalConnection.cs:599
@@ -90,6 +96,7 @@ LocalConnection.cs:1299
 LocalConnection.cs:1312
 LocalConnection.cs:1316
 LocalConnection.cs:1317
+LocalConnection.cs:1322
 test_Runspace.cs:14
 test_Runspace.cs:16
 test_Runspace.cs:17

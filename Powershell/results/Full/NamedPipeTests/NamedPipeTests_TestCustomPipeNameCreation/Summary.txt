@@ -1,3 +1,3 @@
-NamedPipeTests_TestCustomPipeNameCreation||262|199|7|20.6160513||0.0778091|18|525||
-NamedPipeTests_TestCustomPipeNameCreation||361|203|7|20.6160513||0.0838192|18|746||
-NamedPipeTests_TestCustomPipeNameCreation||365|204|7|20.6160513||0.0841291|18|760||
+NamedPipeTests_TestCustomPipeNameCreation||262|199|7|102.9688572||0.0387975|18|525|||568|1030|1|1|1|0.0176
+NamedPipeTests_TestCustomPipeNameCreation||361|203|7|102.9688572||0.0473911|18|746|||768|1488|1|1|1|0.0152
+NamedPipeTests_TestCustomPipeNameCreation||365|204|7|102.9688572||0.0476086|18|760|||776|1502|1|1|1|0.006
