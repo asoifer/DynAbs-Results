@@ -1295,7 +1295,8 @@
     <loopsOptimization>false</loopsOptimization>
     <skipTraceEnabled>true</skipTraceEnabled>
     <memoryModel>Clusters</memoryModel>
-    <dependencyGraph>DynamicDependencyGraph</dependencyGraph>
+    <dependencyGraph>SubsumedDependencyGraph</dependencyGraph>
+    <copyGlobalAssignments>true</copyGlobalAssignments>
   </customization>
   <targetProjects>
     <defaultMode>All</defaultMode>
