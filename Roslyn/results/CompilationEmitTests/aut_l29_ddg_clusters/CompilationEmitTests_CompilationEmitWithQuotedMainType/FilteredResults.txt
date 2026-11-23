@@ -1481,6 +1481,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -2604,7 +2607,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -2612,10 +2614,8 @@ SourceMemberMethodSymbol.cs:377
 SourceMemberMethodSymbol.cs:385
 SourceMemberMethodSymbol.cs:393
 SourceMemberMethodSymbol.cs:412
-SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -2823,7 +2823,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -4912,6 +4911,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -6035,7 +6037,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -6043,10 +6044,8 @@ SourceMemberMethodSymbol.cs:377
 SourceMemberMethodSymbol.cs:385
 SourceMemberMethodSymbol.cs:393
 SourceMemberMethodSymbol.cs:412
-SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -6254,7 +6253,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -8468,6 +8466,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -9610,7 +9611,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -9618,10 +9618,8 @@ SourceMemberMethodSymbol.cs:377
 SourceMemberMethodSymbol.cs:385
 SourceMemberMethodSymbol.cs:393
 SourceMemberMethodSymbol.cs:412
-SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -9829,7 +9827,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -11960,6 +11957,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -13102,7 +13102,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -13110,10 +13109,8 @@ SourceMemberMethodSymbol.cs:377
 SourceMemberMethodSymbol.cs:385
 SourceMemberMethodSymbol.cs:393
 SourceMemberMethodSymbol.cs:412
-SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -13321,7 +13318,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141

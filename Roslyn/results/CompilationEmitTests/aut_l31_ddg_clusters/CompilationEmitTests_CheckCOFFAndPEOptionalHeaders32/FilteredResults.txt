@@ -979,7 +979,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -1011,7 +1010,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -2296,6 +2294,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -3693,7 +3694,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -3707,7 +3707,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -3938,7 +3937,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -4548,7 +4546,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -4580,7 +4577,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -5864,6 +5860,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -7261,7 +7260,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -7275,7 +7273,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -7506,7 +7503,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -8116,7 +8112,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -8148,7 +8143,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -9432,6 +9426,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -10829,7 +10826,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -10843,7 +10839,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -11074,7 +11069,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -11684,7 +11678,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -11716,7 +11709,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -13000,6 +12992,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -14397,7 +14392,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -14411,7 +14405,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -14642,7 +14635,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -15252,7 +15244,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -15284,7 +15275,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -16568,6 +16558,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -17965,7 +17958,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -17979,7 +17971,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -18210,7 +18201,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -18820,7 +18810,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -18852,7 +18841,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -20136,6 +20124,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -21533,7 +21524,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -21547,7 +21537,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -21778,7 +21767,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -22388,7 +22376,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -22420,7 +22407,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -23704,6 +23690,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -25101,7 +25090,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -25115,7 +25103,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -25346,7 +25333,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -25956,7 +25942,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -25988,7 +25973,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -27272,6 +27256,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -28669,7 +28656,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -28683,7 +28669,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -28914,7 +28899,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -29524,7 +29508,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -29556,7 +29539,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -30840,6 +30822,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -32237,7 +32222,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -32251,7 +32235,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -32482,7 +32465,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -33092,7 +33074,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -33124,7 +33105,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -34408,6 +34388,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -35805,7 +35788,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -35819,7 +35801,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -36050,7 +36031,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -36660,7 +36640,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -36692,7 +36671,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -37976,6 +37954,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -39373,7 +39354,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -39387,7 +39367,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -39618,7 +39597,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -40228,7 +40206,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -40260,7 +40237,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -41544,6 +41520,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -42941,7 +42920,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -42955,7 +42933,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -43186,7 +43163,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141
@@ -43796,7 +43772,6 @@ BaseTypeAnalysis.cs:39
 BaseTypeAnalysis.cs:40
 BaseTypeAnalysis.cs:42
 BaseTypeAnalysis.cs:51
-Binder_Flags.cs:33
 Binder_Flags.cs:91
 Binder_Flags.cs:96
 Binder_Symbols.cs:297
@@ -43828,7 +43803,6 @@ Binder.cs:40
 Binder.cs:41
 Binder.cs:42
 Binder.cs:52
-Binder.cs:53
 Binder.cs:54
 Binder.cs:82
 Binder.cs:236
@@ -45112,6 +45086,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbol.cs:60
 ParameterSymbolAdapter.cs:30
 ParameterSymbolAdapter.cs:52
@@ -46509,7 +46486,6 @@ SourceMemberMethodSymbol.cs:287
 SourceMemberMethodSymbol.cs:292
 SourceMemberMethodSymbol.cs:316
 SourceMemberMethodSymbol.cs:326
-SourceMemberMethodSymbol.cs:330
 SourceMemberMethodSymbol.cs:333
 SourceMemberMethodSymbol.cs:334
 SourceMemberMethodSymbol.cs:338
@@ -46523,7 +46499,6 @@ SourceMemberMethodSymbol.cs:465
 SourceMemberMethodSymbol.cs:489
 SourceMemberMethodSymbol.cs:497
 SourceMemberMethodSymbol.cs:505
-SourceMemberMethodSymbol.cs:513
 SourceMemberMethodSymbol.cs:529
 SourceMemberMethodSymbol.cs:545
 SourceMemberMethodSymbol.cs:684
@@ -46754,7 +46729,6 @@ SourceOrdinaryMethodSymbol.cs:109
 SourceOrdinaryMethodSymbol.cs:112
 SourceOrdinaryMethodSymbol.cs:122
 SourceOrdinaryMethodSymbol.cs:123
-SourceOrdinaryMethodSymbol.cs:125
 SourceOrdinaryMethodSymbol.cs:132
 SourceOrdinaryMethodSymbol.cs:134
 SourceOrdinaryMethodSymbol.cs:141

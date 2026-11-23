@@ -1452,6 +1452,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -4628,6 +4631,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -7929,6 +7935,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76
@@ -11166,6 +11175,9 @@ OverriddenOrHiddenMembersResult.cs:27
 OverriddenOrHiddenMembersResult.cs:44
 OverriddenOrHiddenMembersResult.cs:46
 ParameterHelpers.cs:29
+ParameterHelpers.cs:127
+ParameterHelpers.cs:208
+ParameterHelpers.cs:216
 ParameterSymbolAdapter.cs:210
 PEAssemblySymbol.cs:74
 PEAssemblySymbol.cs:76

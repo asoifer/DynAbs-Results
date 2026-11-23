@@ -2896,6 +2896,7 @@ SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
 SourceMemberContainerSymbol.cs:57
 SourceMemberContainerSymbol.cs:58
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:63
 SourceMemberContainerSymbol.cs:65
@@ -7046,6 +7047,7 @@ SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
 SourceMemberContainerSymbol.cs:57
 SourceMemberContainerSymbol.cs:58
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:63
 SourceMemberContainerSymbol.cs:65
@@ -11196,6 +11198,7 @@ SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
 SourceMemberContainerSymbol.cs:57
 SourceMemberContainerSymbol.cs:58
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:63
 SourceMemberContainerSymbol.cs:65
@@ -15346,6 +15349,7 @@ SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
 SourceMemberContainerSymbol.cs:57
 SourceMemberContainerSymbol.cs:58
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:63
 SourceMemberContainerSymbol.cs:65

@@ -6,5 +6,7 @@ Total executed files excluded: 140
 Total executed files excluded (percentage): 32.33
 Skipped via get mode (callback): 4070
 Skipped via get mode (body): 462
+Skipped stmt. via get mode (callback): 1628
+Skipped stmt. via get mode (body): 237
 Excluded folders: 
 =========

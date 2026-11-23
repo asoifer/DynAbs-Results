@@ -1912,6 +1912,7 @@ SourceMemberContainerSymbol.cs:51
 SourceMemberContainerSymbol.cs:52
 SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:66
 SourceMemberContainerSymbol.cs:87
@@ -4253,6 +4254,7 @@ SourceMemberContainerSymbol.cs:51
 SourceMemberContainerSymbol.cs:52
 SourceMemberContainerSymbol.cs:54
 SourceMemberContainerSymbol.cs:55
+SourceMemberContainerSymbol.cs:60
 SourceMemberContainerSymbol.cs:62
 SourceMemberContainerSymbol.cs:66
 SourceMemberContainerSymbol.cs:87
