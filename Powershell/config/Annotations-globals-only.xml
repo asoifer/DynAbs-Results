@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Summaries>
+  <System.Management.Automation>
+    <PSObject>
+      <Methods>
+        <AsPSObject>
+          <AnnotationType>Predefined</AnnotationType>
+          <Annotation>FullHavoc</Annotation>
+        </AsPSObject>
+      </Methods>
+    </PSObject>
+    <PowerShell>
+      <Methods>
+        <Invoke>
+          <AnnotationType>Predefined</AnnotationType>
+          <Annotation>FullHavoc</Annotation>
+        </Invoke>
+      </Methods>
+    </PowerShell>
+    <PSTraceSource>
+      <Methods>
+        <GetTracer>
+          <AnnotationType>Predefined</AnnotationType>
+          <Annotation>FullHavoc</Annotation>
+        </GetTracer>
+      </Methods>
+    </PSTraceSource>
+    <Utils>
+	  <Methods>
+	    <GetPolicySetting>
+		  <AnnotationType>Custom</AnnotationType>
+          <Annotation>Fresh.{}.{P;P.*.?;G;G.?;G.*.?}.{RV.?}.{}</Annotation>
+		</GetPolicySetting>
+	  </Methods>
+	</Utils>
+  </System.Management.Automation>
+  <System.Management.Automation.Runspaces>
+    <Pipeline>
+      <Methods>
+        <Invoke>
+          <AnnotationType>Predefined</AnnotationType>
+          <Annotation>FullHavoc</Annotation>
+        </Invoke>
+      </Methods>
+    </Pipeline>
+  </System.Management.Automation.Runspaces>
+</Summaries>
